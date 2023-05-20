@@ -13,7 +13,3 @@ Clone the repository:
 cd Application
 php artisan serve
 ```
-For Searching Function Run the ```app.py``` file  
-Set Database Credentials for MySQL in ```.env``` file
-
----
